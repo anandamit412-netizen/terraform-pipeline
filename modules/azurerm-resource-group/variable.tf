@@ -1,1 +1,1 @@
-variables "vars" {}
+variable "vars" {}
