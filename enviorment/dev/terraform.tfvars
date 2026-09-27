@@ -8,4 +8,9 @@ rgs = {
         name = "amit-rg2"
         location = "East US"
     }
+    rg3 = {
+        name = "amit-rg3"
+        location = "East US"
+    }
+    
 }
